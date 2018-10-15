@@ -1,0 +1,19 @@
+{
+  "name": "esri",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@dojo/cli-build-app": "^3.0.7",
+    "@dojo/framework": "^3.0.1",
+    "@dojo/interop": "^3.0.0",
+    "@types/arcgis-js-api": "^4.9.0",
+    "arcgis-js-api": "^4.9.3",
+    "esri-loader": "^2.5.0"
+  }
+}
